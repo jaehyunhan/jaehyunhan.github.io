@@ -1,0 +1,28 @@
+name: "Jaehyun Han"
+navbar:
+  title: "Jaehyun Han"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Writing"
+      href: research.html
+    - text: "Thoughts"
+      href: thoughts.html
+  right:
+    - text: fa-envelope fa-lg
+      href: contact.html
+    - text: fa-github fa-lg
+      href: http://github.com/jaehyunhan
+    - text: fa-facebook fa-lg
+      href: http://www.facebook.com/jaehyun1109
+    - text: fa-instagram fa-lg
+      href: http://www.instagram.com/jaehyunhan_
+    - text: fa-linkedin fa-lg
+      href: http://www.linkedln.com/in/jaehyunhan1109
+  output:
+    html_document:
+      theme: paper
+      css: 'styles.css'
+      
