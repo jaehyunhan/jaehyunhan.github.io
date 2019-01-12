@@ -1,0 +1,13 @@
+---
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+"Data-driven Initiatives for Holistic Social Impact"
+
+I am passionate in studying about holistic approaches to address issues in international development and security, specifically in terms of economic rehabilitation in post-war era, as well as analytical methods in public policy analytics and political decision-making.
+
+I am currently pursuing a B.S. Degree in [International Studies](https://internationalstudies.osu.edu/) (International Relations and Diplomacy specialization) and [Data Analytics](https://data-analytics.osu.edu) (Social Science Analytics) at [the Ohio State University](https://www.osu.edu/) and anticipating to receive my diploma in December, 2020. Originally from Goyang, South Korea, I came to the United States as a high school exchange student in Michigan and have been living here ever since then. 
+
+I studied at the International Summer Campus of [Korea University](https://summer.korea.ac.kr/all/src/main/main.php) in 2017, taking courses of International Law and Political Economy Theory. In 2018, I went to Ireland and Jordan to study about the Troubles (the Northern Ireland Conflict) and the Middle East conflicts with a heavy focus in Palestine-Isreal conflict and Arab political dynamics as a part of [FIE-AMIDEAST](http://fie.org.uk/peace-conflict-program) Peace and Conflict Resolution Program. 
